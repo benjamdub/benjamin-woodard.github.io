@@ -25,7 +25,7 @@ body {
    height: 125px;
    margin-top: -80px; /* Half  height */
    margin-left: -200px; /* Half  width */
-   background: url(http://benjamin-woodard.com/images/mural.jpg) no-repeat;
+   background: url(http://benjamin-woodard.com/images/bg.png) no-repeat;
 }
 .label {
 	display:none;
