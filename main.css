@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+html {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	background-image: url(https://dl.dropboxusercontent.com/u/18078386/images/mural.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+body {
+	background-color:transparent;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	-webkit-text-size-adjust:none;
+}
+
+#centerstage {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 400px;
+   height: 125px;
+   margin-top: -80px; /* Half  height */
+   margin-left: -200px; /* Half  width */
+   background: url(https://dl.dropboxusercontent.com/u/18078386/images/bg.png) no-repeat;
+}
+.label {
+	display:none;
+}
+#name {
+	display:block;
+	margin: 19px auto 15px auto;
+}
+#social {
+	width:100%;
+	text-align:center;
+}
+#social img {
+	margin:-10px 15px 0 15px;
+	border:none;
+	width:35px;
+	height:35px;
+}
