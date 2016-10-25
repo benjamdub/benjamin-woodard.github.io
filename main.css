@@ -6,7 +6,7 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 	background-attachment: fixed;
-	background-image: url(https://benjamin-woodard.github.io/images/mural.jpg/images/mural.jpg);
+	background-image: url(https://benjamin-woodard.github.io/images/mural.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 }
@@ -25,7 +25,7 @@ body {
    height: 125px;
    margin-top: -80px; /* Half  height */
    margin-left: -200px; /* Half  width */
-   background: url(https://benjamin-woodard.github.io/images/mural.jpg/images/bg.png) no-repeat;
+   background: url(https://benjamin-woodard.github.io/images/mural.jpg) no-repeat;
 }
 .label {
 	display:none;
